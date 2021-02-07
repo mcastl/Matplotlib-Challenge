@@ -4,7 +4,7 @@
 This Matplotlib project aims to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus other treatment regimens.
 
 ## Table of contents
-* [Pymaceuticals](https://github.com/mcastl/Matplotlib-Challenge/tree/main/Pymaceuticals)
+* [Pymaceuticals](https://github.com/mcastl/Matplotlib-Challenge/blob/main/Pymaceuticals/Matplotlib-Challenge.ipynb)
 
 ## General info
 Pymaceuticals study: In this study, 249 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. 
